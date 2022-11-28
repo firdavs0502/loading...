@@ -1,6 +1,6 @@
 ### stars
 
-## image code
+## image codes
 
 ### html
 
